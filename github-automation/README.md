@@ -6,7 +6,9 @@ This repository has code for three tasks:
 3. Automatically generate basic README.md for specified repository
 
 ## Requirements:
+
 ``` pip install selenium pygithub ```
+
 Also, you will need to download the chrome webdriver for your version of the browser and place it in the drivers directory (replace existing)
 You can download it from, https://chromedriver.chromium.org/downloads
 
